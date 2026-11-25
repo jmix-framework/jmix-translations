@@ -1,0 +1,8 @@
+build/
+.gradle/
+
+.idea/*
+!.idea/copyright
+!.idea/scopes
+.vscode
+.DS_Store

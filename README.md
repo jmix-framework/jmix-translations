@@ -21,6 +21,8 @@ Publish all translations to `.m2`:
 ```groovy
 implementation 'io.jmix.translations:jmix-translations-ar'
 implementation 'io.jmix.translations:jmix-translations-ckb'
+implementation 'io.jmix.translations:jmix-translations-cs'
+implementation 'io.jmix.translations:jmix-translations-da'
 implementation 'io.jmix.translations:jmix-translations-de'
 implementation 'io.jmix.translations:jmix-translations-el'
 implementation 'io.jmix.translations:jmix-translations-es'
@@ -32,4 +34,5 @@ implementation 'io.jmix.translations:jmix-translations-ro'
 implementation 'io.jmix.translations:jmix-translations-ru'
 implementation 'io.jmix.translations:jmix-translations-tr'
 implementation 'io.jmix.translations:jmix-translations-zh-cn'
+implementation 'io.jmix.translations:jmix-translations-zh-tw'
 ```
