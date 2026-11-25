@@ -1,6 +1,6 @@
 # Jmix Translations
 
-This folder contains translations for the [Jmix](https://jmix.io) framework.
+This repository contains translations for the [Jmix](https://jmix.io) framework.
 
 For more information see Jmix [documentation](https://docs.jmix.io/jmix/localization/framework-translations.html).
 
